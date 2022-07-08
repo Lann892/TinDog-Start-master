@@ -146,6 +146,7 @@ p {
        position: static;
        width: 43%;
        transform: rotate(0);
+       margin-left: 0%;
     }
     #title {
       text-align: center;
